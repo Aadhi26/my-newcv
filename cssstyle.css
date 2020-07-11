@@ -1,0 +1,38 @@
+body {
+  background-color: #a6dcef;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #092532;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  background-color: #cadefc;
+  color:#cca8e9;
+}
+
+h3 {
+  background-color: #b7efcd;
+  color: #e84a5f;
+}
+
+.js{
+  font-size: 20px;
+}
+
+
+.founder{
+  font-size: 21px;
+}
+
+.html{
+  font-size: 20;
+}
+
+img:hover{
+  background-color:#2bb2bb;
+}
